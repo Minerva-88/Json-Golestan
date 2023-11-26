@@ -1,0 +1,473 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "صفحه اصلی",
+      "link": "https://www.golestan.com/",
+      "dropdown": []
+    },
+    {
+      "id": 2,
+      "name": "شرکت گلستان",
+      "link": "https://www.golestan.com/",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "معرفی شرکت",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 2,
+          "name": "تاریخچه گلستان",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 3,
+          "name": "اخبار و اطلاعیه ها",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 4,
+          "name": "مسئولیت های اجتماعی",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 5,
+          "name": "سازمان فروش",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 6,
+          "name": "سازمان توزیع",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 7,
+          "name": "برندها",
+          "link": "https://www.golestan.com/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "محصولات",
+      "link": "https://www.golestan.com/",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "چای",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 2,
+          "name": "ناتس",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 3,
+          "name": "ادویه و چاشنی",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 4,
+          "name": "برنج",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 5,
+          "name": "زعفران و زرشک",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 6,
+          "name": "دمنوش",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 7,
+          "name": "حبوبات و غلات",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 8,
+          "name": "قند و شکر",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 9,
+          "name": "هاتی نودل",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 10,
+          "name": "سایر محصولات",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 11,
+          "name": "گل کیس",
+          "link": "https://www.golestan.com/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "وبلاگ",
+      "link": "https://www.golestan.com/",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "مجله گلستان",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 2,
+          "name": "فرهنگ غذایی",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 3,
+          "name": "سلامت غذایی",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 4,
+          "name": "تاریخچه",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 5,
+          "name": "میزبانی و دیزاین",
+          "link": "https://www.golestan.com/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "قرعه کشی",
+      "link": "https://www.golestan.com/",
+      "dropdown": []
+    },
+    {
+      "id": 6,
+      "name": "استخدام",
+      "link": "https://www.golestan.com/",
+      "dropdown": []
+    },
+    {
+      "id": 7,
+      "name": "تماس با ما",
+      "link": "https://www.golestan.com/",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "دفتر مرکزی",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 2,
+          "name": "صدای مصرف کنندگان",
+          "link": "https://www.golestan.com/"
+        },
+        {
+          "id": 3,
+          "name": "ارتباط با مشترکین",
+          "link": "https://www.golestan.com/"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "EN",
+      "link": "https://www.golestan.com/",
+      "dropdown": []
+    }
+  ],
+  "introduction": [
+    {
+      "id": 1,
+      "title": "معرفی گلستان",
+      "content": "آنچه که امروز با نام مجموعه گلستان می‌شناسیم در سال 1329 بنیان نهاده شد. زمانی که شرکت گلستان فعالیت خود را با بسته‌بندی و توزیع چای پاکتی آغاز کرد. با گذر زمان و رشد اقتصاد کشور، نهال «گلستان» به تدریج تقویت شد و شاخ و برگ گرفت. فعالیت‌های «گلستان» با تهیه، تولید و بسته‌بندی بهترین محصولات غذایی گسترش پیدا کرد. گلستان پس از سال‌ها تلاش همچنان می‌کوشد تا به کمک تجربه‌های اندوخته شده در این سال‌ها کالاهایی قابل اعتماد و با کیفیت تولید نماید. </br></br> هدفمندی و برنامه‌ریزی موثر، ایمان و عزم راسخ برای دستیابی به اهداف تعیین شده، به کار گیری همکاران مجرب و دلسوز، استفاده از روش های نوین بازاریابی و مشتری محوری از جمله عوامل مهم در استراتژی شرکت گلستان است."
+    },
+    {
+      "id": 2,
+      "title": "محصولات گلستان",
+      "content": "نام تجاری گلستان قدمتی به اندازه عمر شرکت گلستان دارد. گلستان ممتازترین محصولات خود را با این نام تجاری عرضه می‌کند. مصرف‌کنندگان محصولات گلستان همواره از این نام تجاری خاطره محصولاتی ممتاز و منحصر بفرد دارند و با اطمینان از نهایت کیفیت این نام تجاری حمایت می‌کنند. </br>"
+    }
+  ],
+  "photo": [
+    {
+      "id": 1,
+      "image": "./image/statistics-icon-4.png",
+      "title": "سرمایه انسانی"
+    },
+    {
+      "id": 2,
+      "image": "./image/statistics-icon-3.png",
+      "title": "مراکز فروش"
+    },
+    {
+      "id": 3,
+      "image": "./image/statistics-icon-2.png",
+      "title": "محصولات گلستان"
+    },
+    {
+      "id": 4,
+      "image": "./image/statistics-icon-1.png",
+      "title": "مشتریان گلستان"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "image": "./image/rice.jpg",
+      "name": "برنج گلستان",
+      "introduction": "معرفی محصول",
+      "title": "رکن اول غذای ایرانی",
+      "contact": "مرغوب‌ترین برنج دنیا، برنج ایران است و بهترین نوع برنج ایرانی،‌ طارم و هاشمی. این برنج‌ها از بهترین شالیزارهای مازندران برداشت شده، پس از كنترل كیفیت در آزمایشگاه‌های تخصصی گلستان وارد چرخه بسته‌بندی و در وزن‌های مختلف به بازار عرضه می‌شوند. عطر و طعم بی‌نظیر برنج گلستان با هیچ برنج دیگری قابل مقایسه نیست. با گلستان،‌ كیفیت زندگی بالاتر از همیشه است. چرا كه مشتریان گلستان؛‌ لایق بهترین ها هستند.",
+      "input1": "محصولات برنج",
+      "input2": "آشپزخانه گلستان",
+      "link": "https://www.golestan.com/"
+    },
+    {
+      "id": 2,
+      "image": "./image/tea.jpg",
+      "name": "چای گلستان",
+      "introduction": "معرفی محصول",
+      "title": "سابقه ای به قدمت یک عمر",
+      "contact": "چای تنها یك نوشیدنی گرم نیست.‌ یک گفتمان است؛‌ گرمابخش وجود و بهانه‌ای برای آغاز یك معاشرت دل‌چسب. بی‌دلیل نیست كه نام «محبوب‌ترین نوشیدنی دنیا» را با خود یدک می‌كشد. نوشیدنش خستگی‌ها را فراری داده،‌ حس خوب آرامش را به همراه دارد.</br></br>برای مردمان ایران زمین نام گلستان با چای پیوند خورده است؛‌ قدیمی‌ترین محصول مجموعه گلستان،‌ با مدرن‌ترین و بهداشتی‌ترین دستگاه‌های روز دنیا تهیه و بسته‌بندی می‌شود. چیزی كه باعث شده مشتریانش یك عمر به نام گلستان اعتماد كنند، كیفیت، ‌عطر و طعم به یادماندنی آن است.",
+      "input1": "محصولات چای",
+      "link": "https://www.golestan.com/"
+    },
+    {
+      "id": 3,
+      "image": "./image/peste.jpg",
+      "name": "پسته گلستان",
+      "introduction": "معرفی محصول",
+      "title": "آجيل های خوش خنده",
+      "contact": "خواص فوق‌العاده پسته بر كسی پوشیده نیست. پسته را منبع ویتامین و مواد معدنی می‌نامند، یك پمپ خون‌ساز قوی و تسكین دهنده قلب و اعصاب.</br></br>پسته گلستان اما حسابش از دیگر پسته‌های بازار جداست. مرغوب‌ترین پسته خام از بهترین باغ‌های پسته ایران دستچین می‌شود.‌ پس از كنترل كیفیت در آزمایشگاه و اطمینان از سلامت محصول،‌ با زعفران درجه یک و نمک، بوداده و برشته شده و‌ پسته گلستان را با طعم و رنگ و عطری بی‌نظیر به ارمغان می‌آورد.",
+      "input1": "ناتس گلستان",
+      "link": "https://www.golestan.com/"
+    }
+  ],
+  "recipe": [
+    {
+      "id": 1,
+      "image": "./image/meat.jpg",
+      "title": "استیک با سس قارچ",
+      "content": "استیک را باید در تابه چدنی سرخ کرده و در هر نوبت یک استیک را در تابه قرار داد. قطعات گوشت را کمی می کوبیم. دو طرف هر قطعه را به نمک و فلفل آغشته می کنیم...",
+      "link": "https://www.golestan.com/",
+      "input": "ادامه مطلب"
+    },
+    {
+      "id": 2,
+      "image": "./image/pasta.jpg",
+      "title": "ماکارونی با سبزیجات",
+      "content": "ابتدا ماکارانی‌ها را در ظرفی‌ به‌ همراه‌ آب‌، روغن‌ مایع‌ و نمک‌ می‌ریزیم‌ تا کمی‌ بپزد. در این‌ حین‌ پیازها را خرد کرده‌ و روی‌ روغن‌ تفت‌ می‌دهیم‌ تا طلایی‌ شود...",
+      "link": "https://www.golestan.com/",
+      "input": "ادامه مطلب"
+    },
+    {
+      "id": 3,
+      "image": "./image/soup.jpg",
+      "title": "سوپ مکزیکی",
+      "content": "گوشت بوقلمون را در یک ماهیتابه بزرگ ریخته، آب روی آن بریزید تا روی آن را بپوشاند و به مدت نیم ساعت آن را بپزید. گوشت را از مایع آن بیرون آورده…",
+      "link": "https://www.golestan.com/",
+      "input": "ادامه مطلب"
+    }
+  ],
+  "video":[
+    {
+      "id": 1,
+      "image": "./image/1.jpg",
+      "title": "سالاد نودل",
+      "content": "نودل هاتی کارا یك میان‌وعده‌ی مغذی، در هر موقعیتی كه باشید با كمی آب جوش و یك نودل هاتی‌كارا می‌توانید از یك غذای سالم و خوشمزه لذت ببرید.",
+      "link": "https://www.golestan.com/",
+      "input": "ادامه مطلب"
+    },
+    {
+      "id": 2,
+      "image": "./image/2.jpg",
+      "title": "اینستاگرام هاتی نودل",
+      "content": "نودل‌های هاتی كارا را می‌توان جایگزین سالمی برای غذاهای فست‌فودی دانست. طعم عالی،‌ ارزش غذایی بالا و قیمت مناسب از این محصول غذای سالم و كاملی ساخته است.",
+      "link": "https://www.golestan.com/",
+      "input": "ادامه مطلب"
+    },
+    {
+      "id": 3,
+      "image": "./image/3.jpg",
+      "title": "برنج گلستان",
+      "content": "عطر و طعم بی‌نظیر برنج گلستان با هیچ برنج دیگری قابل مقایسه نیست. با گلستان،‌ كیفیت زندگی بالاتر از همیشه است. چرا كه مشتریان گلستان؛‌ لایق بهترین ها هستند.",
+      "link": "https://www.golestan.com/",
+      "input": "ادامه مطلب"
+    }
+  ],
+  "contact":[
+    {
+        "id":1,
+        "link":"https://www.golestan.com/",
+        "image":"./image/icon5-1.png",
+        "colored":"./image/icon5-2.png"
+    },
+    {
+        "id":2,
+        "link":"https://www.golestan.com/",
+        "image":"./image/icon4-1.png",
+        "colored":"./image/icon4-2.png"
+    },
+    {
+        "id":3,
+        "link":"https://www.golestan.com/",
+        "image":"./image/icon3-1.png",
+        "colored":"./image/icon3-2.png"
+    },
+    {
+        "id":4,
+        "link":"https://www.golestan.com/",
+        "image":"./image/icon2-1.png",
+        "colored":"./image/icon2-2.png"
+    },
+    {
+        "id":5,
+        "link":"https://www.golestan.com/",
+        "image":"./image/icon1-1.png",
+        "colored":"./image/icon1-2.png"
+    },
+    {
+        "id":6,
+        "link":"https://www.golestan.com/",
+        "image":"./image/icon6-1.png",
+        "colored":"./image/icon6-2.png"
+    }
+  ],
+  "footer":[
+    {
+        "id":1,
+        "image":"./image/footer-icon1.png",
+        "title":"چای گلستان",
+        "content":[
+            {
+                "id":1,
+                "link":"https://www.golestan.com/",
+                "title":"چای ممتاز هندوستان"
+            },
+            {
+                "id":2,
+                "link":"https://www.golestan.com/",
+                "title":"چای ممتاز ارل گری"
+            },
+            {
+                "id":3,
+                "link":"https://www.golestan.com/",
+                "title":"چای سیلان عطری"
+            },
+            {
+                "id":4,
+                "link":"https://www.golestan.com/",
+                "title":"چای ممتاز سیلان"
+            },
+            {
+                "id":5,
+                "link":"https://www.golestan.com/",
+                "title":"چای صبحانه گلستان"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "image":"./image/footer-icon4.png",
+        "title":"تی بگ گلستان",
+        "content":[
+            {
+                "id":1,
+                "link":"https://www.golestan.com/",
+                "title":"تی بگ بلک لاین"
+            },
+            {
+                "id":2,
+                "link":"https://www.golestan.com/",
+                "title":"تی بگ ارل گری"
+            },
+            {
+                "id":3,
+                "link":"https://www.golestan.com/",
+                "title":"دمنوش نعناع"
+            },
+            {
+                "id":4,
+                "link":"https://www.golestan.com/",
+                "title":"دمنوش بابونه"
+            },
+            {
+                "id":5,
+                "link":"https://www.golestan.com/",
+                "title":"دمنوش چای سبز"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "image":"./image/footer-icon3.png",
+        "title":"ادويه گلستان",
+        "content":[
+            {
+                "id":1,
+                "link":"https://www.golestan.com/",
+                "title":"زعفران ممتاز خراسان"
+            },
+            {
+                "id":2,
+                "link":"https://www.golestan.com/",
+                "title":"ادویه کاری"
+            },
+            {
+                "id":3,
+                "link":"https://www.golestan.com/",
+                "title":"ادویه ماست و خیار"
+            },
+            {
+                "id":4,
+                "link":"https://www.golestan.com/",
+                "title":"فلفل سیاه خالص"
+            },
+            {
+                "id":5,
+                "link":"https://www.golestan.com/",
+                "title":"زردچوبه ممتاز"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "image":"./image/footer-icon2.png",
+        "title":"حبوبات گلستان",
+        "content":[
+            {
+                "id":1,
+                "link":"https://www.golestan.com/",
+                "title":"لوبیا قرمز ممتاز"
+            },
+            {
+                "id":2,
+                "link":"https://www.golestan.com/",
+                "title":"لوبیا چیتی گلستان"
+            },
+            {
+                "id":3,
+                "link":"https://www.golestan.com/",
+                "title":"عدس کانادایی"
+            },
+            {
+                "id":4,
+                "link":"https://www.golestan.com/",
+                "title":"نخود زودپز کرمانشاه"
+            },
+            {
+                "id":5,
+                "link":"https://www.golestan.com/",
+                "title":"لوبیا سفید گلستان"
+            }
+        ]
+    }
+  ]
+}
